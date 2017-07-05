@@ -1,5 +1,5 @@
 # hello-world
 Just another repository
 
-# Edit on branch
+# Edit by feature branch
 
